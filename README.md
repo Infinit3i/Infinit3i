@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I love programming and hacking
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=github_dark" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infint3i&hide_progress=true&show_icons=true&theme=github_dark" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
