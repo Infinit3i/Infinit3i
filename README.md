@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love programming and hacking
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=gruvbox&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
