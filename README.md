@@ -10,6 +10,4 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=gruvbox&show_icons=true" />
 </a>
-<a>
-  <img src="ttps://github-readme-stats.vercel.app/api?username=infinit3i&show_icons=true&theme=radical" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Infinit3i/hunt-ai)
