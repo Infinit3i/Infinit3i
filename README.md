@@ -10,6 +10,5 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=gruvbox&show_icons=true" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infinit3i)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
