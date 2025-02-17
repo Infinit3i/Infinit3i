@@ -1,11 +1,10 @@
 ## Hello there 👋
 
 - 🔭 I’m currently working on [Hunt AI](https://github.com/Infinit3i/hunt-ai)
-- 🌱 I’m currently learning Rust, Malware Development, Malware Analysis
-- 🤔 I’m looking for help with [Hunt AI](https://github.com/Infinit3i/hunt-ai)
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Rust, Malware Development, Malware Analysis.
+- 💬 Ask me about detection engineer, malware analysis or malware development.
 - 📫 How to reach me: matthewiver@protonmail.com
-- ⚡ Fun fact: I love programming and hacking
+- ⚡ Fun fact: I love programming and hacking.
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" />
