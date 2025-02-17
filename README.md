@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love programming and hacking
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=gruvbox" />
 </a>
 <a>
   <img src="ttps://github-readme-stats.vercel.app/api?username=infinit3i&show_icons=true&theme=radical" />
