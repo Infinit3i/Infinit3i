@@ -10,4 +10,6 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=github_dark" />
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<a>
+  <img src="ttps://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical />
+</a>
