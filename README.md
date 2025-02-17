@@ -10,6 +10,6 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=gruvbox&show_icons=true" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infinit3i&repo=hunt-ai)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infiniti)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
