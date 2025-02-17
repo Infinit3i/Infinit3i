@@ -1,14 +1,14 @@
 ## Hello there 👋
 
-- 🔭 I’m currently working on Hunt AI
+- 🔭 I’m currently working on [Hunt AI](https://github.com/Infinit3i/hunt-ai)
 - 🌱 I’m currently learning Rust, Malware Development, Malware Analysis
-- 🤔 I’m looking for help with Hunt AI
+- 🤔 I’m looking for help with [Hunt AI](https://github.com/Infinit3i/hunt-ai)
 - 💬 Ask me about ...
 - 📫 How to reach me: matthewiver@protonmail.com
 - ⚡ Fun fact: I love programming and hacking
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=synthwave&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
