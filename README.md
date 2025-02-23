@@ -11,12 +11,12 @@
 - ⚡ **Fun fact**: I love **programming** and **hacking**. 💻🔥
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rzSTrk39yE) 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/infinit3i)](https://x.com/infinit3i)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@infinit3i) 
 
-## 📊 **GitHub Stats**
+### 📊 **GitHub Stats**
 
 <table>
   <tr>
@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-## 🏆 CTF & Cybersecurity Profiles
+### 🏆 CTF & Cybersecurity Profiles
 
 <table>
   <tr>
