@@ -28,14 +28,22 @@
 ### 🏆 CTF & Cybersecurity Profiles
 
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
       <a href="https://app.hackthebox.com/profile/95473">
-        <img src="https://www.hackthebox.com/badge/image/95473" width="300"/>
+        <img src="https://www.hackthebox.com/badge/image/95473" width="180"/>
       </a>
+    </td>
+    <td align="center">
       <a href="https://tryhackme.com/p/Macr0Dino">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" width="300"/>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" width="180"/>
       </a>
+    </td>
+    <td align="center">
       <a href="https://ctftime.org/user/54104">
-        <img src="https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime" width="300"/>
+        <img src="https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime" width="180"/>
       </a>
-</div>
+    </td>
+  </tr>
+</table>
