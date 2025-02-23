@@ -15,8 +15,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rzSTrk39yE) 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/infinit3i)](https://x.com/infinit3i)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@infinit3i) 
-<a href="https://start.me/p/qbzw4e/cyber-security"><img src="https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=Start.Me" width="110"/></a>
-[![Start.me](https://img.shields.io/badge/Start.Me-Profile-blue?style=for-the-badge&logo=internet-explorer)](YOUR_START_ME_LINK)
+[![Start.me](https://img.shields.io/badge/Start.Me-Profile-blue?style=for-the-badge&logo=internet-explorer)](https://start.me/p/qbzw4e/cyber-security)
 
 
 ### 📊 **GitHub Stats**
