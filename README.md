@@ -28,7 +28,7 @@
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=BhalgamaVedant)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Infinit3i)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
