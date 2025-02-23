@@ -25,3 +25,10 @@
 
 
 [![CTFtime](https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime)]
+
+
+## 🏆 CTF & Cybersecurity Profiles
+
+[![Hack The Box](https://www.hackthebox.com/badge/image/YOUR_HTB_ID)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)](https://tryhackme.com/p/YOUR_USERNAME)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime)](https://ctftime.org/team/YOUR_TEAM_ID)
