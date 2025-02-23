@@ -23,4 +23,4 @@
 [![Hack The Box](https://www.hackthebox.com/badge/image/YOUR_HTB_ID)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=114406" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" alt="Your Image Badge" />
