@@ -24,4 +24,4 @@
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=infinit3i)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=infinit3i&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
