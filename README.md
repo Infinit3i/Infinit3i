@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 - 🔭 I’m currently working on [Hunt AI](https://github.com/Infinit3i/hunt-ai)
-- 🌱 I’m currently learning <a href="https://github.com/YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="100"></a>
+- 🌱 I’m currently learning <a href="https://github.com/YOUR_USERNAME"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="25"></a>
 , Malware Development, Malware Analysis.
 - 💬 Ask me about detection engineer, malware analysis or malware development.
 - 📫 How to reach me: matthewiver@protonmail.com
