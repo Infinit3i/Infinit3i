@@ -26,4 +26,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" alt="Your Image Badge" />
 
 
-[![CTFtime](https://ctftime.org/user/54104)](https://ctftime.org/user/54104)
+[![CTFtime Profile](https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime)](https://ctftime.org/user/54104)
+
