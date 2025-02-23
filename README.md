@@ -19,7 +19,7 @@
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" width="45%" padding="20" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" width="48%" />
 </div>
 
