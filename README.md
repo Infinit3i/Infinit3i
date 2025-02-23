@@ -1,5 +1,7 @@
 ## Hello there 👋
 
+[![Start.me](https://img.shields.io/badge/Start.Me-Profile-blue?style=for-the-badge&logo=internet-explorer)](https://start.me/p/qbzw4e/cyber-security)
+
 ### 🚀 What I'm Working On:
 - 🔭 **Currently working on**: [Hunt AI](https://github.com/Infinit3i/hunt-ai)
 - 🌱 **Currently learning**:
@@ -44,5 +46,3 @@
     </td>
   </tr>
 </table>
-
-[![Start.me](https://img.shields.io/badge/Start.Me-Profile-blue?style=for-the-badge&logo=internet-explorer)](https://start.me/p/qbzw4e/cyber-security)
