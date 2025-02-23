@@ -27,15 +27,6 @@
 
 ## 🏆 CTF & Cybersecurity Profiles
 
-[ ![Infinit3i](https://www.hackthebox.eu/badge/image/95473)](https://www.hackthebox.eu/home/users/profile/95473)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" alt="Your Image Badge" />
-
-
-[![CTFtime Profile](https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime)](https://ctftime.org/user/54104)
-
-
-
 <table>
   <tr>
     <td align="center">
