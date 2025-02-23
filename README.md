@@ -20,4 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Latest Tweet](https://twitframe.com/show?url=https://twitter.com/YOUR_TWITTER_HANDLE/status/LATEST_TWEET_ID)](https://twitter.com/YOUR_TWITTER_HANDLE/status/LATEST_TWEET_ID)
+[![Hack The Box](https://www.hackthebox.com/badge/image/YOUR_HTB_ID)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)](https://tryhackme.com/p/YOUR_USERNAME)
