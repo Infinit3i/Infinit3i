@@ -8,6 +8,11 @@
 
 [![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)](https://github.com/YOUR_USERNAME)
 
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="100">
+</a>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rzSTrk39yE) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/infinit3i)](https://x.com/infinit3i)
