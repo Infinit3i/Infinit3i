@@ -21,7 +21,6 @@
 <table>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" /></td>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" /></td>
   </tr>
 </table>
