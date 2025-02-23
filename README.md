@@ -20,6 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[ ![Relwarc17](https://www.hackthebox.eu/badge/image/42767)](https://www.hackthebox.eu/home/users/profile/42767)
+[ ![Infinit3i](https://app.hackthebox.com/profile/95473)](https://app.hackthebox.com/profile/95473)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" alt="Your Image Badge" />
