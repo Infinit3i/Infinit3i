@@ -18,12 +18,11 @@
 
 ### 📊 **GitHub Stats**
 
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" width="48%" />
+</div>
+
 
 ### 🏆 CTF & Cybersecurity Profiles
 
@@ -32,17 +31,17 @@
   <tr>
     <td align="center">
       <a href="https://app.hackthebox.com/profile/95473">
-        <img src="https://www.hackthebox.com/badge/image/95473" width="180"/>
+        <img src="https://www.hackthebox.com/badge/image/95473" width="280"/>
       </a>
     </td>
     <td align="center">
       <a href="https://tryhackme.com/p/Macr0Dino">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" width="180"/>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/Macr0Dino.png" width="280"/>
       </a>
     </td>
     <td align="center">
       <a href="https://ctftime.org/user/54104">
-        <img src="https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime" width="180"/>
+        <img src="https://img.shields.io/badge/CTFtime-Profile-blue?style=for-the-badge&logo=ctftime" width="280"/>
       </a>
     </td>
   </tr>
