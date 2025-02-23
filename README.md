@@ -7,9 +7,6 @@
 - 📫 How to reach me: matthewiver@protonmail.com
 - ⚡ Fun fact: I love programming and hacking.
 
-[![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)](https://github.com/YOUR_USERNAME)
-
-
 
 
 ## 🌐 Socials:
@@ -21,3 +18,6 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Latest Tweet](https://twitframe.com/show?url=https://twitter.com/YOUR_TWITTER_HANDLE/status/LATEST_TWEET_ID)](https://twitter.com/YOUR_TWITTER_HANDLE/status/LATEST_TWEET_ID)
