@@ -18,14 +18,9 @@
 
 ### 📊 **GitHub Stats**
 
-<div align="center">
-  <div style="display: inline; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" width="40%" />
-  </div>
-  <div style="display: inline; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" width="40%" />
-  </div>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" width="40%" />
+
 
 ### 🏆 CTF & Cybersecurity Profiles
 
