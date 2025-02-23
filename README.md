@@ -9,7 +9,7 @@
 [![Rust](https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg)](https://github.com/YOUR_USERNAME)
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="30">
 </a>
 
 
