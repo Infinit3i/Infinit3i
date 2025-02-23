@@ -23,8 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ## 🏆 CTF & Cybersecurity Profiles
 
 [ ![Infinit3i](https://www.hackthebox.eu/badge/image/95473)](https://www.hackthebox.eu/home/users/profile/95473)
