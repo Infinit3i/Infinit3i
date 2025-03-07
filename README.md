@@ -5,7 +5,7 @@
 ### 🚀 What I'm Working On:
 - 🔭 **Currently working on**: [Hunt AI](https://github.com/Infinit3i/hunt-ai)
 - 🌱 **Currently learning**: **Rust**, **C**, **C++**, 🦠 **Malware Development**, 🔍 **Malware Analysis**
-- 💬 **Ask me about**: Detection Engineering, Malware Analysis, or Malware Development.
+- 💬 **Ask me about**: Detection Engineering.
 - 📫 **How to reach me**: [matthewiver@protonmail.com](mailto:matthewiver@protonmail.com)
 - ⚡ **Fun fact**: I love **programming** and **hacking**. 💻🔥
 
