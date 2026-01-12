@@ -3,8 +3,8 @@
 [![Start.me](https://img.shields.io/badge/Start.Me-Page-blue?style=for-the-badge&logo=internet-explorer)](https://start.me/p/qbzw4e/cyber-security)
 
 ### 🚀 What I'm Working On:
-- 🔭 **Currently working on**: [Detection-Wizard](https://github.com/Infinit3i/Detection-Wizard)
-- 🌱 **Currently learning**: **Rust**, 🦠 **Malware Development**, 🔍 **Detection Engineering**
+- 🔭 **Currently working on**: *Coding*
+- 🌱 **Currently learning**: **Rust**
 - 💬 **Ask me about**: Detection Engineering, Malware Development or Malware Analysis.
 - 📫 **How to reach me**: [matthewiver@protonmail.com](mailto:matthewiver@protonmail.com)
 - ⚡ **Fun fact**: I love **programming** and **hacking**. 💻🔥
