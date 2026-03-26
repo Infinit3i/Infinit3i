@@ -22,7 +22,7 @@
 
 ### 📊 **GitHub Stats**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinit3i)](https://github.com/Infinit3i/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i)](https://github.com/infinit3i/github-readme-stats)
 
 
 ### 🏆 CTF & Cybersecurity Profiles
