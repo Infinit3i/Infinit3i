@@ -22,8 +22,7 @@
 
 ### 📊 **GitHub Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?infinit3i=anuraghazra&stats_format=bytes)
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" width="55%" /> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🏆 CTF & Cybersecurity Profiles
