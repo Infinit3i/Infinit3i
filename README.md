@@ -21,9 +21,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@infinit3i) 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Infinit3i&show_icons=true&theme=radical)
-
-
 ### 🏆 CTF & Cybersecurity Profiles
 
 
