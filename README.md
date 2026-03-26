@@ -9,6 +9,8 @@
 - 📫 **How to reach me**: [matthewiver@protonmail.com](mailto:matthewiver@protonmail.com)
 - ⚡ **Fun fact**: I love Finding Hackers.
 
+## My Website
+
 [![My Website](https://api.microlink.io/?url=https://infinit3i.com&screenshot=true&meta=false&embed=screenshot.url)](https://infinit3i.com)
 
 
@@ -21,7 +23,7 @@
 
 ### 📊 **GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=infint3i&show_icons=true&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinit3i&show_icons=true&bg_color=00000000)
 
 
 ### 🏆 CTF & Cybersecurity Profiles
