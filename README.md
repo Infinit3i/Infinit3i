@@ -22,7 +22,7 @@
 
 ### 📊 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=infinit3i&theme=dracula&show_icons=true" width="55%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?infinit3i=anuraghazra&stats_format=bytes)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinit3i&hide_progress=true&theme=dracula" width="55%" /> -->
 
 
