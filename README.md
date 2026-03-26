@@ -22,7 +22,7 @@
 
 ### 📊 **GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Infinit3i&show_icons=true&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=infint3i&show_icons=true&bg_color=00000000)
 
 
 ### 🏆 CTF & Cybersecurity Profiles
