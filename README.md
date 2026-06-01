@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://app.hackthebox.com/profile/95473">
+      <a href="https://app.hackthebox.com/users/95473">
         <img src="https://www.hackthebox.com/badge/image/95473" width="180"/>
       </a>
     </td>
