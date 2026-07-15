@@ -3,8 +3,8 @@
 [![Start.me](https://img.shields.io/badge/Start.Me-Page-blue?style=for-the-badge&logo=internet-explorer)](https://start.me/p/qbzw4e/cyber-security)
 
 ### 🚀 What I'm Working On:
-- 🔭 **Currently working on**: *IOC Detections*
-- 🌱 **Currently learning**: Bootkits, Offsec exploitation
+- 🔭 **Currently working on**: *Vuln Research*
+- 🌱 **Currently learning**: "From Day Zero to Zero Day"
 - 💬 **Ask me about**: Detection Engineering
 - 📫 **How to reach me**: [matthewiver@protonmail.com](mailto:matthewiver@protonmail.com)
 - ⚡ **Fun fact**: I love Finding Hackers.
