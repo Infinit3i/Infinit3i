@@ -7,7 +7,7 @@
 - 🌱 **Currently learning**: "From Day Zero to Zero Day"
 - 💬 **Ask me about**: Detection Engineering
 - 📫 **How to reach me**: [matthewiver@protonmail.com](mailto:matthewiver@protonmail.com)
-- ⚡ **Fun fact**: I love Finding Hackers.
+- ⚡ **Fun fact**: I love Finding Bugs, Hackers, and new inventions to help people's lives.
 
 ## My Website
 
